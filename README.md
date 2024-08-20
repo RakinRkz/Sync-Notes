@@ -1,2 +1,2 @@
 # Sync-Notes
-Notes that sync accross your devices
+Notes that sync across your devices
